@@ -1,0 +1,13 @@
+PICTURE=Eagle(owl)-eye_-_modified.JPG
+
+POLYGON
+#ffff00
+170,201,163,256,188,312,226,342,309,371,396,374,472,346,515,293,509,213,475,168,354,138,267,124,196,152
+HREF=an_eagle_is_watching_you.html
+ALT=Take care !
+TARGET=_blank
+
+CIRCLE
+#ffffff
+344,246,274,152
+
