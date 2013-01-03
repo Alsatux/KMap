@@ -23,7 +23,7 @@ Image Mapper - version 0.2 - 2012
 PRESENTATION
 ------------
 
-This is a simple Image Mapping tool for webmasters, which let you import a picture, then drawing rectangles, circles, ellipses, polynoms on it. For each map created, you can fix HTML attributes like HREF, ALT, TARGET, etc.
+This is a simple Image Mapping tool for webmasters, which let you import a picture, then drawing rectangles, circles, ellipses, polygons on it. For each map created, you can fix HTML attributes like HREF, ALT, TARGET, etc.
 
 The attributes list is controlled by the application's menu. You can show/hide control points, change the zoom level, move forms after creating them, create or delete points for polynoms, change map color, group maps to copy, delete, change color on them...
 
